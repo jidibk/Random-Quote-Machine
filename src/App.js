@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 // import logo from './logo.svg';
 import './App.css';
 // import Quote from './Quote'
-import Calculator from './calculator';
+import Calculator from './components/calculator';
 
 
 
